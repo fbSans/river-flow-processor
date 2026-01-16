@@ -1,0 +1,9 @@
+Data Attribution
+
+The datasets in this folder come from Associação Regional de Águas (ARA), Mozambique, for educational and demonstration purposes.
+
+The data includes hydrological measurements (river flows and water heights) for various years,
+e.g., "E-525. 1976-77.xls" and similar files.
+
+This data is NOT licensed under MIT and should not be redistributed without permission from ARA.
+It is included here solely to demonstrate the processing capabilities of the code in this repository.
